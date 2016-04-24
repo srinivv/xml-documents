@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<myemployees xmlns:xlink="http://www.w3.org/1999/xlink">
+	<myemployee xlink:type="simple"
+		xlink:href="employees.xml#14782">
+		<description xlink:type="simple"
+			Jim is the employee of the year
+		</description>
+	</myemployee>
+</myemployees>
